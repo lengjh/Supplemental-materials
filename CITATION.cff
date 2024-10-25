@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Supplemental materials for the article "Role of Cancer
+  History in Cardiovascular Mortality among Different
+  Age-group Patients with Differentiated Thyroid Cancer"
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Jinhang
+    family-names: Leng
+    name-particle: JINHANG
+    email: lengjinhang@gdph.org.cn
+    affiliation: >-
+      Department of Thoracic Surgery, Guangdong Provincial
+      People's Hospital (Guangdong Academy of Medical
+      Sciences), Southern Medical University
+    orcid: 'https://orcid.org/0000-0003-4545-165X'
+url: 'https://github.com/lengjh/Supplemantery-materials.git'
